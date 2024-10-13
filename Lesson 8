@@ -1,1 +1,15 @@
+<!-- Ordered Lists Example -->
 
+<ol>
+ <li>Head north on N Halsted St</li>
+ <li>Turn right on W Diversey Pkwy</li>
+ <li>Turn left on N Orchard St</li>
+</ol>
+
+<!-- Start Attribute Example -->
+
+<ol start="30">
+ <li>Head north on N Halsted St</li>
+ <li>Turn right on W Diversey Pkwy</li>
+ <li>Turn left on N Orchard St</li>
+</ol>
